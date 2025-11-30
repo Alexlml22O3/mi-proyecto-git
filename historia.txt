@@ -1,2 +1,1 @@
-El cielo era de color VIOLETA.
-prueba modificación1
+El cielo era azul
