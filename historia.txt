@@ -1,2 +1,2 @@
-hola mundo
+El cielo era de color VIOLETA.
 prueba modificación1
